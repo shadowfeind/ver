@@ -1,0 +1,3286 @@
+{
+  "output": {
+    "pageData": {
+      "gridwallContent": {
+        "productList": {
+          "recordCount": "41",
+          "paginationInfo": null,
+          "priceDisclaimer": null,
+          "sortOptions": [
+            {
+              "selectionFlag": "false",
+              "navigationState": "/smartphones/&Ns=rating%7C1",
+              "legacyNavState": "N=10238",
+              "label": "Customer Rating"
+            },
+            {
+              "selectionFlag": "false",
+              "navigationState": "/smartphones/&Ns=sku.PrdTwoYearFinalDiscountPrice%7C0",
+              "legacyNavState": "N=10238",
+              "label": "Price Low-High"
+            },
+            {
+              "selectionFlag": "false",
+              "navigationState": "/smartphones/&Ns=product.startDate%7C1",
+              "legacyNavState": "N=10238",
+              "label": "Newest"
+            },
+            {
+              "selectionFlag": "false",
+              "navigationState": "/smartphones/&Ns=sku.unitsSold.30%7C1",
+              "legacyNavState": "N=10238",
+              "label": "Best Sellers"
+            },
+            {
+              "selectionFlag": "true",
+              "navigationState": "/smartphones/&Ns=featureProduct%7C1",
+              "legacyNavState": "N=10238",
+              "label": "Featured"
+            },
+            {
+              "selectionFlag": "false",
+              "navigationState": "/smartphones/&Ns=sku.PrdTwoYearFinalDiscountPrice%7C1",
+              "legacyNavState": "N=10238",
+              "label": "Price High-Low"
+            }
+          ],
+          "promoContent": null,
+          "emptyDeviceListMsg": null,
+          "recordPerPage": "100",
+          "deviceList": [
+            {
+              "numOfReviews": "156",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "4.2244",
+              "comingSoon": "false",
+              "imageName": "iPhoneX-Svr",
+              "deals": null,
+              "startDate": "1509087600000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "1",
+              "imgDomainName": "//ss7.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Silver",
+                "Space Gray",
+                "Space Gray",
+                "Silver"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "41.66",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Save $300 on us with select trade. New line req.\r",
+                      "badgeToolTip": "Up to $1149.99 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. \r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "41.66",
+                  "discountedPrice": "41.66",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Save $300 on us with select trade. New line req.\r",
+                      "badgeToolTip": "Up to $1149.99 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. \r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "999.99",
+                  "discountedPrice": "999.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "41.66",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "999.99",
+                  "originalPrice": "999.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8720300",
+              "outOfStock": "true",
+              "pdpUrl": "smartphones/apple-iphone-x/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; X",
+              "defaultSkuId": "sku2680533",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "148",
+              "operatingSystem": "Android",
+              "averageRating": "3.7095",
+              "comingSoon": "false",
+              "imageName": "GOOGLE_Taiman_Wht",
+              "deals": null,
+              "startDate": "1507154400000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "2",
+              "imgDomainName": "//ss71.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black and White",
+                "Just Black",
+                "Just Black",
+                "Black and White"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "35.41",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "35.41",
+                  "discountedPrice": "35.41",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "849.99",
+                  "discountedPrice": "849.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "35.41",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "849.99",
+                  "originalPrice": "849.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8760136",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/google-pixel-2-xl/",
+              "brand": "Google",
+              "annualUpgradeEligible": "false",
+              "displayName": "Pixel 2 XL",
+              "defaultSkuId": "sku2690595",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "43",
+              "operatingSystem": "Android",
+              "averageRating": "4.0",
+              "comingSoon": "false",
+              "imageName": "SAMSUNG_Galaxy_S9_Plus_Purple",
+              "deals": null,
+              "startDate": "1519966800000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "3",
+              "imgDomainName": "//ss72.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Lilac Purple",
+                "Midnight Black",
+                "Coral Blue"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "38.74",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Free Memory Card + Save $300 w/ select trade. New line required.\r",
+                      "badgeToolTip": "$929.99 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. Memory Card Redemption: Must be 18+ & 50 US/DC/PR/USVI res. From 7/1/18 – 7/31/18 (\"Purchase Period\"), purchase a Samsung Galaxy S9, S9+, or Note8 phone on a device installment plan, 2-year contract plan, or outright purchase at full retail price (\"Qualifying Purchase\"). By 8/7/18 at 11:59:59 PM ET, using your Qualifying Purchase device, follow instructions on the Shop Samsung app (\"App\") to submit required info and receive a memory card (\"Gift\") (either a 64GB (est. value $60), a 128GB (est. value $99), or a 256GB (est. value $199.99) memory card; memory card size will be the same size as the Qualifying Purchase's internal memory). Gifts only available while supplies last. After verification of Qualifying Purchase, Gifts will be mailed in apprx 6-8 weeks. No more than 205,000 64GB memory cards will be available, no more than 1,000 128GB memory cards will be available, and no more than 1,000 256GB memory cards will be available. In the event that Gifts are unavailable for any reason, Samsung, in its sole discretion, may choose to issue a Reward eCertificate in the apprx value of the Gift as a substitute. Reward eCertificates are valid only at www.Samsung.com or in the App for use towards an eligible purchase, and are valid through 10/15/18. Gifts subject to availability and are non-transferrable. Limit 1 Gift per Qualifying Purchase. Void where prohibited or restricted by law. Additional restrictions apply. Offer subject to additional Standard Offer Terms and Conditions available at http://promos.samsung.com/terms. Samsung reserves the right to modify or discontinue offer at any time by posting notice on the app or website.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "38.74",
+                  "discountedPrice": "38.74",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Free Memory Card + Save $300 w/ select trade. New line required.\r",
+                      "badgeToolTip": "$929.99 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. Memory Card Redemption: Must be 18+ & 50 US/DC/PR/USVI res. From 7/1/18 – 7/31/18 (\"Purchase Period\"), purchase a Samsung Galaxy S9, S9+, or Note8 phone on a device installment plan, 2-year contract plan, or outright purchase at full retail price (\"Qualifying Purchase\"). By 8/7/18 at 11:59:59 PM ET, using your Qualifying Purchase device, follow instructions on the Shop Samsung app (\"App\") to submit required info and receive a memory card (\"Gift\") (either a 64GB (est. value $60), a 128GB (est. value $99), or a 256GB (est. value $199.99) memory card; memory card size will be the same size as the Qualifying Purchase's internal memory). Gifts only available while supplies last. After verification of Qualifying Purchase, Gifts will be mailed in apprx 6-8 weeks. No more than 205,000 64GB memory cards will be available, no more than 1,000 128GB memory cards will be available, and no more than 1,000 256GB memory cards will be available. In the event that Gifts are unavailable for any reason, Samsung, in its sole discretion, may choose to issue a Reward eCertificate in the apprx value of the Gift as a substitute. Reward eCertificates are valid only at www.Samsung.com or in the App for use towards an eligible purchase, and are valid through 10/15/18. Gifts subject to availability and are non-transferrable. Limit 1 Gift per Qualifying Purchase. Void where prohibited or restricted by law. Additional restrictions apply. Offer subject to additional Standard Offer Terms and Conditions available at http://promos.samsung.com/terms. Samsung reserves the right to modify or discontinue offer at any time by posting notice on the app or website.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "929.99",
+                  "discountedPrice": "929.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "38.74",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "929.99",
+                  "originalPrice": "929.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev9640079",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/samsung-galaxy-s9-plus/",
+              "brand": "Samsung",
+              "annualUpgradeEligible": "false",
+              "displayName": "Galaxy S9+",
+              "defaultSkuId": "sku2930290",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "3168",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "4.322",
+              "comingSoon": "false",
+              "imageName": "apple_iPhoneSE_SpGry",
+              "deals": null,
+              "startDate": "1458802800000",
+              "unitsSold1": "109",
+              "unitsSold3": "307",
+              "unitsSold7": "1124",
+              "unitsSold30": "5155",
+              "defaultRank": "4",
+              "imgDomainName": "//ss73.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Space Gray",
+                "Space Gray",
+                "Gold",
+                "Rose Gold",
+                "Rose Gold",
+                "Silver",
+                "Gold",
+                "Silver"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "10.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "24 months, 0% APR; Retail price: $240 was $349.99",
+                      "badgeToolTip": "",
+                      "placement": "LEGALTXT"
+                    },
+                    {
+                      "badgeText": "As low as $10/mo! New line required.",
+                      "badgeToolTip": "Up to $349.99 device payment purchase & new line of service required. Less $109.99 promo credit applied over 24 mos; promo credit ends when balance paid or line terminated/transferred; 0% APR.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "14.58",
+                  "discountedPrice": "10.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "24 months, 0% APR; Retail price: $240 was $349.99",
+                      "badgeToolTip": "",
+                      "placement": "LEGALTXT"
+                    },
+                    {
+                      "badgeText": "As low as $10/mo! New line required.",
+                      "badgeToolTip": "Up to $349.99 device payment purchase & new line of service required. Less $109.99 promo credit applied over 24 mos; promo credit ends when balance paid or line terminated/transferred; 0% APR.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "349.99",
+                  "discountedPrice": "345.40708333333333",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "14.58",
+                  "contractText": "24 months, 0% APR; Retail price: $240 was $349.99",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "349.99",
+                  "originalPrice": "349.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev6000008",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-se/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; SE",
+              "defaultSkuId": "sku2350125",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "109",
+              "operatingSystem": "Android",
+              "averageRating": "3.9266",
+              "comingSoon": "false",
+              "imageName": "GOOGLE_Walleye_Blk",
+              "deals": null,
+              "startDate": "1507154400000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "5",
+              "imgDomainName": "//ss7.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Just Black",
+                "Kinda Blue",
+                "Clearly White",
+                "Clearly White",
+                "Just Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "27.08",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "27.08",
+                  "discountedPrice": "27.08",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "649.99",
+                  "discountedPrice": "649.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "27.08",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "649.99",
+                  "originalPrice": "649.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8760137",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/google-pixel-2/",
+              "brand": "Google",
+              "annualUpgradeEligible": "false",
+              "displayName": "Pixel 2",
+              "defaultSkuId": "sku2690617",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "21",
+              "operatingSystem": "Android",
+              "averageRating": "3.619",
+              "comingSoon": "false",
+              "imageName": "SAMSUNG_Galaxy_S9_Blue",
+              "deals": null,
+              "startDate": "1519966800000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "6",
+              "imgDomainName": "//ss71.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Coral Blue",
+                "Lilac Purple",
+                "Midnight Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "33.33",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Free Memory Card + Save $300 w/ select trade. New line required.\r",
+                      "badgeToolTip": "$799.99 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. Memory Card Redemption: Must be 18+ & 50 US/DC/PR/USVI res. From 7/1/18 – 7/31/18 (\"Purchase Period\"), purchase a Samsung Galaxy S9, S9+, or Note8 phone on a device installment plan, 2-year contract plan, or outright purchase at full retail price (\"Qualifying Purchase\"). By 8/7/18 at 11:59:59 PM ET, using your Qualifying Purchase device, follow instructions on the Shop Samsung app (\"App\") to submit required info and receive a memory card (\"Gift\") (either a 64GB (est. value $60), a 128GB (est. value $99), or a 256GB (est. value $199.99) memory card; memory card size will be the same size as the Qualifying Purchase's internal memory). Gifts only available while supplies last. After verification of Qualifying Purchase, Gifts will be mailed in apprx 6-8 weeks. No more than 205,000 64GB memory cards will be available, no more than 1,000 128GB memory cards will be available, and no more than 1,000 256GB memory cards will be available. In the event that Gifts are unavailable for any reason, Samsung, in its sole discretion, may choose to issue a Reward eCertificate in the apprx value of the Gift as a substitute. Reward eCertificates are valid only at www.Samsung.com or in the App for use towards an eligible purchase, and are valid through 10/15/18. Gifts subject to availability and are non-transferrable. Limit 1 Gift per Qualifying Purchase. Void where prohibited or restricted by law. Additional restrictions apply. Offer subject to additional Standard Offer Terms and Conditions available at http://promos.samsung.com/terms. Samsung reserves the right to modify or discontinue offer at any time by posting notice on the app or website.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "33.33",
+                  "discountedPrice": "33.33",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Free Memory Card + Save $300 w/ select trade. New line required.\r",
+                      "badgeToolTip": "$799.99 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. Memory Card Redemption: Must be 18+ & 50 US/DC/PR/USVI res. From 7/1/18 – 7/31/18 (\"Purchase Period\"), purchase a Samsung Galaxy S9, S9+, or Note8 phone on a device installment plan, 2-year contract plan, or outright purchase at full retail price (\"Qualifying Purchase\"). By 8/7/18 at 11:59:59 PM ET, using your Qualifying Purchase device, follow instructions on the Shop Samsung app (\"App\") to submit required info and receive a memory card (\"Gift\") (either a 64GB (est. value $60), a 128GB (est. value $99), or a 256GB (est. value $199.99) memory card; memory card size will be the same size as the Qualifying Purchase's internal memory). Gifts only available while supplies last. After verification of Qualifying Purchase, Gifts will be mailed in apprx 6-8 weeks. No more than 205,000 64GB memory cards will be available, no more than 1,000 128GB memory cards will be available, and no more than 1,000 256GB memory cards will be available. In the event that Gifts are unavailable for any reason, Samsung, in its sole discretion, may choose to issue a Reward eCertificate in the apprx value of the Gift as a substitute. Reward eCertificates are valid only at www.Samsung.com or in the App for use towards an eligible purchase, and are valid through 10/15/18. Gifts subject to availability and are non-transferrable. Limit 1 Gift per Qualifying Purchase. Void where prohibited or restricted by law. Additional restrictions apply. Offer subject to additional Standard Offer Terms and Conditions available at http://promos.samsung.com/terms. Samsung reserves the right to modify or discontinue offer at any time by posting notice on the app or website.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "799.99",
+                  "discountedPrice": "799.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "33.33",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "799.99",
+                  "originalPrice": "799.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev9640080",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/samsung-galaxy-s9/",
+              "brand": "Samsung",
+              "annualUpgradeEligible": "false",
+              "displayName": "Galaxy S9",
+              "defaultSkuId": "sku2930285",
+              "mobileAppImageName": "SAMSUNG_Galaxy_S9_Blue",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "85",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "4.2471",
+              "comingSoon": "false",
+              "imageName": "iPhone8_plus_RED",
+              "deals": null,
+              "startDate": "1505458800000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "7",
+              "imgDomainName": "//ss72.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Red",
+                "Silver",
+                "Space Gray",
+                "Gold",
+                "Space Gray",
+                "Gold",
+                "Red",
+                "Silver"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "33.33",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Save $300 on us with select trade. New line req.\r",
+                      "badgeToolTip": "Up to $949.99 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. \r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "33.33",
+                  "discountedPrice": "33.33",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Save $300 on us with select trade. New line req.\r",
+                      "badgeToolTip": "Up to $949.99 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. \r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "799.99",
+                  "discountedPrice": "799.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "33.33",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "799.99",
+                  "originalPrice": "799.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8720045",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-8-plus/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 8 Plus",
+              "defaultSkuId": "sku2990112",
+              "mobileAppImageName": "iPhone8_plus_RED",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "626",
+              "operatingSystem": "Android",
+              "averageRating": "4.5927",
+              "comingSoon": "false",
+              "imageName": "LG_V30",
+              "deals": null,
+              "startDate": "1507176000000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "8",
+              "imgDomainName": "//ss73.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Silver"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "35.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Get $300 off with select trade. New line required.",
+                      "badgeToolTip": "$840 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "35.0",
+                  "discountedPrice": "35.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Get $300 off with select trade. New line required.",
+                      "badgeToolTip": "$840 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "840.0",
+                  "discountedPrice": "840.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "35.0",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "840.0",
+                  "originalPrice": "840.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8760140",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/lg-v30/",
+              "brand": "LG",
+              "annualUpgradeEligible": "false",
+              "displayName": "V30",
+              "defaultSkuId": "sku2690416",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "4",
+              "operatingSystem": "Android",
+              "averageRating": "3.75",
+              "comingSoon": "false",
+              "imageName": "moto-G6-play-prepaid",
+              "deals": null,
+              "startDate": "1527058800000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "9",
+              "imgDomainName": "//ss7.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": null,
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "5.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Now only $5/mo! No trade-in required.\r",
+                      "badgeToolTip": "$240 device payment purchase & new line of service required. Less $120 promo credit applied over 24 mos; promo credit ends when balance paid or line terminated/transferred; 0% APR.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "10.0",
+                  "discountedPrice": "5.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Now only $5/mo! No trade-in required.\r",
+                      "badgeToolTip": "$240 device payment purchase & new line of service required. Less $120 promo credit applied over 24 mos; promo credit ends when balance paid or line terminated/transferred; 0% APR.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "240.0",
+                  "discountedPrice": "235.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "10.0",
+                  "contractText": "For 24 months,  0% APR;<br> Reduced Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "240.0",
+                  "originalPrice": "240.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev10120001",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/moto-g6/",
+              "brand": "Motorola",
+              "annualUpgradeEligible": "false",
+              "displayName": "moto g<sup>6</sup>",
+              "defaultSkuId": "sku3050009",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "9",
+              "operatingSystem": "Android",
+              "averageRating": "2.2222",
+              "comingSoon": "false",
+              "imageName": "ASUS_Zenfone_V_Live",
+              "deals": null,
+              "startDate": null,
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "10",
+              "imgDomainName": "//ss71.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Slate Grey"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": null,
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "0.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Get this device for free. No trade-in required.\r",
+                      "badgeToolTip": "$168 device payment purchase & new line of service required. Less $168 promo credit applied over 24 mos; promo credit ends when balance paid or line terminated/transferred; 0% APR.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "7.0",
+                  "discountedPrice": "0.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Get this device for free. No trade-in required.\r",
+                      "badgeToolTip": "$168 device payment purchase & new line of service required. Less $168 promo credit applied over 24 mos; promo credit ends when balance paid or line terminated/transferred; 0% APR.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "168.0",
+                  "discountedPrice": "161.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "7.0",
+                  "contractText": "For 24 months,  0% APR;<br> Reduced Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "168.0",
+                  "originalPrice": "168.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8920002",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/asus-zenfone-v-live/",
+              "brand": "ASUS",
+              "annualUpgradeEligible": "false",
+              "displayName": "ZenFone V Live",
+              "defaultSkuId": "sku2730051",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "78",
+              "operatingSystem": "Android",
+              "averageRating": "4.5769",
+              "comingSoon": "false",
+              "imageName": "LG_G7_ThinQ_Grey",
+              "deals": null,
+              "startDate": "1527058800000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "11",
+              "imgDomainName": "//ss72.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Platinum Grey",
+                "Aurora Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "31.25",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Get $300 off with select trade. New line required.",
+                      "badgeToolTip": "$750 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. ",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "31.25",
+                  "discountedPrice": "31.25",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Get $300 off with select trade. New line required.",
+                      "badgeToolTip": "$750 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. ",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "750.0",
+                  "discountedPrice": "750.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "31.25",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "750.0",
+                  "originalPrice": "750.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev10120003",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/lg-g7-thinq/",
+              "brand": "LG",
+              "annualUpgradeEligible": "false",
+              "displayName": "G7 ThinQ&trade;",
+              "defaultSkuId": "sku3050013",
+              "mobileAppImageName": "LG_G7_ThinQ_Grey",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "36",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "3.8056",
+              "comingSoon": "false",
+              "imageName": "iPhone8_RED",
+              "deals": null,
+              "startDate": "1505458800000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "12",
+              "imgDomainName": "//ss73.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Red",
+                "Space Gray",
+                "Silver",
+                "Space Gray",
+                "Silver",
+                "Gold",
+                "Red",
+                "Gold"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "29.16",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Save $300 on us with select trade. New line req.\r",
+                      "badgeToolTip": "Up to $849.99 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. \r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "29.16",
+                  "discountedPrice": "29.16",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Save $300 on us with select trade. New line req.\r",
+                      "badgeToolTip": "Up to $849.99 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. \r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "699.99",
+                  "discountedPrice": "699.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "29.16",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "699.99",
+                  "originalPrice": "699.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8720046",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-8/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 8",
+              "defaultSkuId": "sku2990115",
+              "mobileAppImageName": "iPhone8_RED",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "187",
+              "operatingSystem": "Android",
+              "averageRating": "4.2674",
+              "comingSoon": "false",
+              "imageName": "Great_Black_VZW",
+              "deals": null,
+              "startDate": "1503547200000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "13",
+              "imgDomainName": "//ss7.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Midnight Black",
+                "Orchid Gray"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "40.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Free Memory Card + Save $300 w/ select trade. New line required.\r",
+                      "badgeToolTip": "$960 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. Memory Card Redemption: Must be 18+ & 50 US/DC/PR/USVI res. From 7/1/18 – 7/31/18 (\"Purchase Period\"), purchase a Samsung Galaxy S9, S9+, or Note8 phone on a device installment plan, 2-year contract plan, or outright purchase at full retail price (\"Qualifying Purchase\"). By 8/7/18 at 11:59:59 PM ET, using your Qualifying Purchase device, follow instructions on the Shop Samsung app (\"App\") to submit required info and receive a memory card (\"Gift\") (either a 64GB (est. value $60), a 128GB (est. value $99), or a 256GB (est. value $199.99) memory card; memory card size will be the same size as the Qualifying Purchase's internal memory). Gifts only available while supplies last. After verification of Qualifying Purchase, Gifts will be mailed in apprx 6-8 weeks. No more than 205,000 64GB memory cards will be available, no more than 1,000 128GB memory cards will be available, and no more than 1,000 256GB memory cards will be available. In the event that Gifts are unavailable for any reason, Samsung, in its sole discretion, may choose to issue a Reward eCertificate in the apprx value of the Gift as a substitute. Reward eCertificates are valid only at www.Samsung.com or in the App for use towards an eligible purchase, and are valid through 10/15/18. Gifts subject to availability and are non-transferrable. Limit 1 Gift per Qualifying Purchase. Void where prohibited or restricted by law. Additional restrictions apply. Offer subject to additional Standard Offer Terms and Conditions available at http://promos.samsung.com/terms. Samsung reserves the right to modify or discontinue offer at any time by posting notice on the app or website.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "40.0",
+                  "discountedPrice": "40.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Free Memory Card + Save $300 w/ select trade. New line required.\r",
+                      "badgeToolTip": "$960 device payment purchase required. Less $300 trade-in/promo credit applied to account over 24 mos w/in 1-2 billing cycles; promo credit ends when balance paid or line terminated/transferred; 0% APR. Trade-in must be in good working and cosmetic condition. New line required. Memory Card Redemption: Must be 18+ & 50 US/DC/PR/USVI res. From 7/1/18 – 7/31/18 (\"Purchase Period\"), purchase a Samsung Galaxy S9, S9+, or Note8 phone on a device installment plan, 2-year contract plan, or outright purchase at full retail price (\"Qualifying Purchase\"). By 8/7/18 at 11:59:59 PM ET, using your Qualifying Purchase device, follow instructions on the Shop Samsung app (\"App\") to submit required info and receive a memory card (\"Gift\") (either a 64GB (est. value $60), a 128GB (est. value $99), or a 256GB (est. value $199.99) memory card; memory card size will be the same size as the Qualifying Purchase's internal memory). Gifts only available while supplies last. After verification of Qualifying Purchase, Gifts will be mailed in apprx 6-8 weeks. No more than 205,000 64GB memory cards will be available, no more than 1,000 128GB memory cards will be available, and no more than 1,000 256GB memory cards will be available. In the event that Gifts are unavailable for any reason, Samsung, in its sole discretion, may choose to issue a Reward eCertificate in the apprx value of the Gift as a substitute. Reward eCertificates are valid only at www.Samsung.com or in the App for use towards an eligible purchase, and are valid through 10/15/18. Gifts subject to availability and are non-transferrable. Limit 1 Gift per Qualifying Purchase. Void where prohibited or restricted by law. Additional restrictions apply. Offer subject to additional Standard Offer Terms and Conditions available at http://promos.samsung.com/terms. Samsung reserves the right to modify or discontinue offer at any time by posting notice on the app or website.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "960.0",
+                  "discountedPrice": "960.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "40.0",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "960.0",
+                  "originalPrice": "960.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8520011",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/samsung-galaxy-note-8/",
+              "brand": "Samsung",
+              "annualUpgradeEligible": "false",
+              "displayName": "Galaxy Note8",
+              "defaultSkuId": "sku2630268",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "85",
+              "operatingSystem": "Android",
+              "averageRating": "4.0353",
+              "comingSoon": "false",
+              "imageName": "LG_K20V",
+              "deals": null,
+              "startDate": "1490241600000",
+              "unitsSold1": "255",
+              "unitsSold3": "674",
+              "unitsSold7": "1510",
+              "unitsSold30": "4666",
+              "defaultRank": "14",
+              "imgDomainName": "//ss71.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": null,
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "0.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Get this device for free. No trade-in required.\r",
+                      "badgeToolTip": "$168 device payment purchase & new line of service required. Less $168 promo credit applied over 24 mos; promo credit ends when balance paid or line terminated/transferred; 0% APR.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "7.0",
+                  "discountedPrice": "0.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Get this device for free. No trade-in required.\r",
+                      "badgeToolTip": "$168 device payment purchase & new line of service required. Less $168 promo credit applied over 24 mos; promo credit ends when balance paid or line terminated/transferred; 0% APR.\r",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "168.0",
+                  "discountedPrice": "161.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "7.0",
+                  "contractText": "For 24 months,  0% APR;<br> Reduced Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "168.0",
+                  "originalPrice": "168.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev7400003",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/lg-k20-v/",
+              "brand": "LG",
+              "annualUpgradeEligible": "false",
+              "displayName": "K20 V",
+              "defaultSkuId": "sku2340115",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "129",
+              "operatingSystem": "Android",
+              "averageRating": "3.2171",
+              "comingSoon": "false",
+              "imageName": "MotoZ2_Force_Edition_SuperBlkDv",
+              "deals": null,
+              "startDate": "1500991200000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "15",
+              "imgDomainName": "//ss72.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black",
+                "Gold"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "31.5",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "31.5",
+                  "discountedPrice": "31.5",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "756.0",
+                  "discountedPrice": "756.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "31.5",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "756.0",
+                  "originalPrice": "756.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8240042",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/moto-z2-force/",
+              "brand": "Motorola",
+              "annualUpgradeEligible": "false",
+              "displayName": "moto z&sup2; force edition ",
+              "defaultSkuId": "sku2560273",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "6567",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "4.2433",
+              "comingSoon": "false",
+              "imageName": "iphone7-front-matblk",
+              "deals": null,
+              "startDate": "1473404400000",
+              "unitsSold1": "350",
+              "unitsSold3": "816",
+              "unitsSold7": "1698",
+              "unitsSold30": "12308",
+              "defaultRank": "16",
+              "imgDomainName": "//ss73.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black",
+                "Silver",
+                "Rose Gold",
+                "Silver",
+                "Jet Black",
+                "Gold",
+                "Black",
+                "Gold",
+                "Rose Gold",
+                "Jet Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "22.91",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Buy iPhone, save $200 on iPad with 2yr contract.",
+                      "badgeToolTip": "Device payment purchase required for iPhone. 2-yr activation required for iPad. Up to $200 instant savings off the retail price of the iPad.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "22.91",
+                  "discountedPrice": "22.91",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Buy iPhone, save $200 on iPad with 2yr contract.",
+                      "badgeToolTip": "Device payment purchase required for iPhone. 2-yr activation required for iPad. Up to $200 instant savings off the retail price of the iPad.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "549.99",
+                  "discountedPrice": "549.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "22.91",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "549.99",
+                  "originalPrice": "549.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev6640012",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-7/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 7",
+              "defaultSkuId": "sku2150056",
+              "mobileAppImageName": "iphone7-front-matblk",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "481",
+              "operatingSystem": "Android",
+              "averageRating": "4.1185",
+              "comingSoon": "false",
+              "imageName": "Samsung_Galaxy_S8_Plus_Black",
+              "deals": null,
+              "startDate": "1490846400000",
+              "unitsSold1": "446",
+              "unitsSold3": "1138",
+              "unitsSold7": "2850",
+              "unitsSold30": "11506",
+              "defaultRank": "17",
+              "imgDomainName": "//ss7.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Midnight Black",
+                "Orchid Gray"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "32.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "32.0",
+                  "discountedPrice": "32.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "768.0",
+                  "discountedPrice": "768.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "32.0",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "768.0",
+                  "originalPrice": "768.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev7480002",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/samsung-galaxy-s8-plus/",
+              "brand": "Samsung",
+              "annualUpgradeEligible": "false",
+              "displayName": "Galaxy S8+",
+              "defaultSkuId": "sku2360005",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "13623",
+              "operatingSystem": "Android",
+              "averageRating": "4.4608",
+              "comingSoon": "false",
+              "imageName": "Samsung_Hero_Black",
+              "deals": null,
+              "startDate": null,
+              "unitsSold1": "179",
+              "unitsSold3": "498",
+              "unitsSold7": "1128",
+              "unitsSold30": "4807",
+              "defaultRank": "18",
+              "imgDomainName": "//ss71.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": null,
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "20.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "20.0",
+                  "discountedPrice": "20.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "480.0",
+                  "discountedPrice": "480.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "20.0",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "480.0",
+                  "originalPrice": "480.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev5800066",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/samsung-galaxy-s7/",
+              "brand": "Samsung",
+              "annualUpgradeEligible": "false",
+              "displayName": "Galaxy S7",
+              "defaultSkuId": "sku1900310",
+              "mobileAppImageName": "Samsung_Galaxy_S7_Black_front_mf",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "353",
+              "operatingSystem": "Android",
+              "averageRating": "3.4986",
+              "comingSoon": "false",
+              "imageName": "Samsung_Galaxy_S8_Black",
+              "deals": null,
+              "startDate": "1490846400000",
+              "unitsSold1": "315",
+              "unitsSold3": "786",
+              "unitsSold7": "1867",
+              "unitsSold30": "8318",
+              "defaultRank": "19",
+              "imgDomainName": "//ss72.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Midnight Black",
+                "Orchid Gray"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "29.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "29.0",
+                  "discountedPrice": "29.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "696.0",
+                  "discountedPrice": "696.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "29.0",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "696.0",
+                  "originalPrice": "696.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev7480001",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/samsung-galaxy-s8/",
+              "brand": "Samsung",
+              "annualUpgradeEligible": "false",
+              "displayName": "Galaxy S8",
+              "defaultSkuId": "sku2360003",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "8769",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "4.3753",
+              "comingSoon": "false",
+              "imageName": "iphone6s-spgry-front",
+              "deals": null,
+              "startDate": "1442030460000",
+              "unitsSold1": "127",
+              "unitsSold3": "394",
+              "unitsSold7": "879",
+              "unitsSold30": "5158",
+              "defaultRank": "20",
+              "imgDomainName": "//ss73.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Space Gray",
+                "Gold",
+                "Rose Gold",
+                "Space Gray",
+                "Silver",
+                "Gold",
+                "Silver",
+                "Rose Gold"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "18.74",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Buy iPhone, save $200 on iPad with 2yr contract.",
+                      "badgeToolTip": "Device payment purchase required for iPhone. 2-yr activation required for iPad. Up to $200 instant savings off the retail price of the iPad.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "18.74",
+                  "discountedPrice": "18.74",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Buy iPhone, save $200 on iPad with 2yr contract.",
+                      "badgeToolTip": "Device payment purchase required for iPhone. 2-yr activation required for iPad. Up to $200 instant savings off the retail price of the iPad.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "449.99",
+                  "discountedPrice": "449.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "18.74",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "449.99",
+                  "originalPrice": "449.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev5160002",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-6s/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 6s",
+              "defaultSkuId": "sku2160047",
+              "mobileAppImageName": "apple_iphone6s_spgry_front_mf",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "74",
+              "operatingSystem": "Android",
+              "averageRating": "3.2838",
+              "comingSoon": "false",
+              "imageName": "MotoZ2Play_MRKT_LunarGrayDv",
+              "deals": null,
+              "startDate": "1498708800000",
+              "unitsSold1": "134",
+              "unitsSold3": "319",
+              "unitsSold7": "763",
+              "unitsSold30": "2330",
+              "defaultRank": "21",
+              "imgDomainName": "//ss7.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Gray",
+                "Gold"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "17.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "17.0",
+                  "discountedPrice": "17.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "408.0",
+                  "discountedPrice": "408.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "17.0",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "408.0",
+                  "originalPrice": "408.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev7920215",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/moto-z2-play/",
+              "brand": "Motorola",
+              "annualUpgradeEligible": "false",
+              "displayName": "Moto Z2 Play",
+              "defaultSkuId": "sku2480353",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "5821",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "4.5557",
+              "comingSoon": "false",
+              "imageName": "iphone7-plus-front-matblk",
+              "deals": null,
+              "startDate": "1473404400000",
+              "unitsSold1": "297",
+              "unitsSold3": "763",
+              "unitsSold7": "1671",
+              "unitsSold30": "8580",
+              "defaultRank": "22",
+              "imgDomainName": "//ss71.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black",
+                "Silver",
+                "Rose Gold",
+                "Gold",
+                "Black",
+                "Rose Gold",
+                "Jet Black",
+                "Jet Black",
+                "Gold",
+                "Silver"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "27.91",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Buy iPhone, save $200 on iPad with 2yr contract.",
+                      "badgeToolTip": "Device payment purchase required for iPhone. 2-yr activation required for iPad. Up to $200 instant savings off the retail price of the iPad.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "27.91",
+                  "discountedPrice": "27.91",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Buy iPhone, save $200 on iPad with 2yr contract.",
+                      "badgeToolTip": "Device payment purchase required for iPhone. 2-yr activation required for iPad. Up to $200 instant savings off the retail price of the iPad.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "669.99",
+                  "discountedPrice": "669.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "27.91",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "669.99",
+                  "originalPrice": "669.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev6640013",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-7-plus/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 7 Plus",
+              "defaultSkuId": "sku2150070",
+              "mobileAppImageName": "iphone7-plus-front-matblk",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "108",
+              "operatingSystem": "Android",
+              "averageRating": "3.4167",
+              "comingSoon": "false",
+              "imageName": "Kyocera_DuraForce_Pro",
+              "deals": null,
+              "startDate": "1481778000000",
+              "unitsSold1": "42",
+              "unitsSold3": "126",
+              "unitsSold7": "269",
+              "unitsSold30": "1072",
+              "defaultRank": "23",
+              "imgDomainName": "//ss72.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": null,
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "17.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "17.0",
+                  "discountedPrice": "17.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "408.0",
+                  "discountedPrice": "408.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "17.0",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "408.0",
+                  "originalPrice": "408.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev6760021",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/kyocera-duraforce-pro/",
+              "brand": "Kyocera",
+              "annualUpgradeEligible": "false",
+              "displayName": "DuraForce PRO with Sapphire Shield",
+              "defaultSkuId": "sku2260136",
+              "mobileAppImageName": "Kyocera_DuraForce_Pro",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "270",
+              "operatingSystem": "Android",
+              "averageRating": "3.5481",
+              "comingSoon": "false",
+              "imageName": "LG_Stylo_2V",
+              "deals": null,
+              "startDate": "1476331200000",
+              "unitsSold1": "31",
+              "unitsSold3": "110",
+              "unitsSold7": "267",
+              "unitsSold30": "2120",
+              "defaultRank": "24",
+              "imgDomainName": "//ss73.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Gray"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "10.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "10.0",
+                  "discountedPrice": "10.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "240.0",
+                  "discountedPrice": "240.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "10.0",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "240.0",
+                  "originalPrice": "240.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev6760013",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/lg-stylo-2-v/",
+              "brand": "LG",
+              "annualUpgradeEligible": "false",
+              "displayName": "Stylo 2 V",
+              "defaultSkuId": "sku2180004",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "5599",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "4.5615",
+              "comingSoon": "false",
+              "imageName": "iphone6s-plus-spgry-front",
+              "deals": null,
+              "startDate": "1442030400000",
+              "unitsSold1": "21",
+              "unitsSold3": "70",
+              "unitsSold7": "186",
+              "unitsSold30": "762",
+              "defaultRank": "25",
+              "imgDomainName": "//ss7.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Space Gray",
+                "Silver",
+                "Gold",
+                "Rose Gold",
+                "Space Gray",
+                "Rose Gold",
+                "Silver",
+                "Gold"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "22.91",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Buy iPhone, save $200 on iPad with 2yr contract.",
+                      "badgeToolTip": "Device payment purchase required for iPhone. 2-yr activation required for iPad. Up to $200 instant savings off the retail price of the iPad.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "22.91",
+                  "discountedPrice": "22.91",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": [
+                    {
+                      "badgeText": "Buy iPhone, save $200 on iPad with 2yr contract.",
+                      "badgeToolTip": "Device payment purchase required for iPhone. 2-yr activation required for iPad. Up to $200 instant savings off the retail price of the iPad.",
+                      "placement": "HEADERMSG"
+                    }
+                  ],
+                  "originalPrice": "549.99",
+                  "discountedPrice": "549.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "22.91",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "549.99",
+                  "originalPrice": "549.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev5160003",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-6s-plus/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 6s Plus",
+              "defaultSkuId": "sku2160032",
+              "mobileAppImageName": "apple_iphone6s_plus_spgry_front_mf",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "1",
+              "operatingSystem": "Android",
+              "averageRating": "5.0",
+              "comingSoon": "false",
+              "imageName": "Postpaid_Samsung_J7_2ndGen_Black",
+              "deals": null,
+              "startDate": "1530158400000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "26",
+              "imgDomainName": "//ss71.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": null,
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "10.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "10.0",
+                  "discountedPrice": "10.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "240.0",
+                  "discountedPrice": "240.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "10.0",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "240.0",
+                  "originalPrice": "240.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev10240017",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/samsung-galaxy-j7-v-2nd-gen/",
+              "brand": "Samsung",
+              "annualUpgradeEligible": "false",
+              "displayName": "Galaxy J7 V 2nd Gen",
+              "defaultSkuId": "sku3080114",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "36",
+              "operatingSystem": "Android",
+              "averageRating": "2.3611",
+              "comingSoon": "false",
+              "imageName": "ASUS_Zenfone_V",
+              "deals": null,
+              "startDate": null,
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "27",
+              "imgDomainName": "//ss72.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Sapphire Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Deals"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "10.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "10.0",
+                  "discountedPrice": "10.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "240.0",
+                  "discountedPrice": "240.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "10.0",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "240.0",
+                  "originalPrice": "240.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8680014",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/asus-zenfone-v/",
+              "brand": "ASUS",
+              "annualUpgradeEligible": "false",
+              "displayName": "ZenFone&trade; V",
+              "defaultSkuId": "sku2670098",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "0",
+              "operatingSystem": "Android",
+              "averageRating": "0.0",
+              "comingSoon": "false",
+              "imageName": "samsung-galaxy-j3-postpaid",
+              "deals": null,
+              "startDate": "1530158400000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "28",
+              "imgDomainName": "//ss73.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": null,
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "7.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "7.0",
+                  "discountedPrice": "7.0",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "168.0",
+                  "discountedPrice": "168.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "7.0",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "168.0",
+                  "originalPrice": "168.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev10240019",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/samsung-galaxy-j3-v-3rd-gen/",
+              "brand": "Samsung",
+              "annualUpgradeEligible": "false",
+              "displayName": "Galaxy J3 V 3rd Gen",
+              "defaultSkuId": "sku3080116",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "8",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "2.5",
+              "comingSoon": "false",
+              "imageName": "iphone6s-spgry-front",
+              "deals": null,
+              "startDate": "1442030460000",
+              "unitsSold1": "19",
+              "unitsSold3": "67",
+              "unitsSold7": "148",
+              "unitsSold30": "721",
+              "defaultRank": "29",
+              "imgDomainName": "//ss7.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Space Gray",
+                "Rose Gold",
+                "Space Gray"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "12.49",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "12.49",
+                  "discountedPrice": "12.49",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "299.99",
+                  "discountedPrice": "299.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "12.49",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "299.99",
+                  "originalPrice": "299.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev7320062",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-6s-certified-pre-owned/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 6s (Certified Pre-Owned - Like New)",
+              "defaultSkuId": "sku2310388",
+              "mobileAppImageName": "apple_iphone6s_spgry_front_mf",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "1",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "2.0",
+              "comingSoon": "false",
+              "imageName": "iphone6s-plus-rsgld-front",
+              "deals": null,
+              "startDate": "1442030400000",
+              "unitsSold1": "24",
+              "unitsSold3": "59",
+              "unitsSold7": "136",
+              "unitsSold30": "670",
+              "defaultRank": "30",
+              "imgDomainName": "//ss71.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Rose Gold",
+                "Rose Gold",
+                "Space Gray"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "19.79",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "19.79",
+                  "discountedPrice": "19.79",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "474.99",
+                  "discountedPrice": "474.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "19.79",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "474.99",
+                  "originalPrice": "474.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev7680032",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-6s-plus-certified-pre-owned/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 6s Plus (Certified Pre-Owned - Like New)",
+              "defaultSkuId": "sku2400293",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "0",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "0.0",
+              "comingSoon": "false",
+              "imageName": "iphone7-front-matblk",
+              "deals": null,
+              "startDate": "1473404400000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "31",
+              "imgDomainName": "//ss72.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black",
+                "Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "0.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": null,
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": null,
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": null,
+                "fullRetailContractInfo": {
+                  "discountedPrice": "349.99",
+                  "originalPrice": "349.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev10320062",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-7-certified-pre-owned-great/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 7 (Certified Pre-Owned - Great)",
+              "defaultSkuId": "sku2730319",
+              "mobileAppImageName": "iphone7-front-matblk",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "0",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "0.0",
+              "comingSoon": "false",
+              "imageName": "apple-iphone-6-spacegray",
+              "deals": null,
+              "startDate": "1433390400000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "32",
+              "imgDomainName": "//ss73.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Space Gray",
+                "Gold"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "0.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": null,
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": null,
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": null,
+                "fullRetailContractInfo": {
+                  "discountedPrice": "199.99",
+                  "originalPrice": "199.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev9440028",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-6-certified-pre-owned-great-condition/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 6 (Certified Pre-Owned - Great)",
+              "defaultSkuId": "sku2730247",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "0",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "0.0",
+              "comingSoon": "false",
+              "imageName": "iphone6s-svr-front",
+              "deals": null,
+              "startDate": "1442030460000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "33",
+              "imgDomainName": "//ss7.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Silver",
+                "Rose Gold"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "0.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": null,
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": null,
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": null,
+                "fullRetailContractInfo": {
+                  "discountedPrice": "249.99",
+                  "originalPrice": "249.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev10320061",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-6s-certified-pre-owned-great/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 6s (Certified Pre-Owned - Great)",
+              "defaultSkuId": "sku2770113",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "0",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "0.0",
+              "comingSoon": "false",
+              "imageName": "iPhone8-Svr",
+              "deals": null,
+              "startDate": "1505458800000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "34",
+              "imgDomainName": "//ss71.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Silver"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "24.99",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "24.99",
+                  "discountedPrice": "24.99",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "599.99",
+                  "discountedPrice": "599.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "24.99",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "599.99",
+                  "originalPrice": "599.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev10320064",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-8-certified-pre-owned-great/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 8 (Certified Pre-Owned - Great)",
+              "defaultSkuId": "sku2930060",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "0",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "0.0",
+              "comingSoon": "false",
+              "imageName": "iphone7-plus-front-gld",
+              "deals": null,
+              "startDate": "1473404400000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "35",
+              "imgDomainName": "//ss72.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Gold"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "19.58",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "19.58",
+                  "discountedPrice": "19.58",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "469.99",
+                  "discountedPrice": "469.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "19.58",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "469.99",
+                  "originalPrice": "469.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev10320063",
+              "outOfStock": "false",
+              "pdpUrl": "smartphones/apple-iphone-7-plus-certified-pre-owned-great/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 7 Plus (Certified Pre-Owned - Great)",
+              "defaultSkuId": "sku2910137",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "0",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "0.0",
+              "comingSoon": "false",
+              "imageName": "iphone7-front-matblk",
+              "deals": null,
+              "startDate": "1473404400000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "36",
+              "imgDomainName": "//ss73.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black",
+                "Black",
+                "Gold"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "21.04",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "21.04",
+                  "discountedPrice": "21.04",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "504.99",
+                  "discountedPrice": "504.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "21.04",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "504.99",
+                  "originalPrice": "504.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8000064",
+              "outOfStock": "true",
+              "pdpUrl": "smartphones/apple-iphone-7-certified-pre-owned/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 7 (Certified Pre-Owned - Like New)",
+              "defaultSkuId": "sku2950056",
+              "mobileAppImageName": "iphone7-front-matblk",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "2",
+              "operatingSystem": "Android",
+              "averageRating": "5.0",
+              "comingSoon": "false",
+              "imageName": "Samsung_Hero2_Silver",
+              "deals": null,
+              "startDate": null,
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "37",
+              "imgDomainName": "//ss7.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Silver"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "18.7",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "18.7",
+                  "discountedPrice": "18.7",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "449.0",
+                  "discountedPrice": "449.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "18.7",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "449.0",
+                  "originalPrice": "449.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8240031",
+              "outOfStock": "true",
+              "pdpUrl": "smartphones/samsung-galaxy-s7-edge-certified-pre-owned/",
+              "brand": "Samsung",
+              "annualUpgradeEligible": "false",
+              "displayName": "Galaxy S7 edge (Certified  Pre-Owned - Like New)",
+              "defaultSkuId": "sku2370050",
+              "mobileAppImageName": null,
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "0",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "0.0",
+              "comingSoon": "false",
+              "imageName": "iphone7-plus-front-rsgld",
+              "deals": null,
+              "startDate": "1473404400000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "38",
+              "imgDomainName": "//ss71.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Rose Gold",
+                "Black",
+                "Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "25.2",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "25.2",
+                  "discountedPrice": "25.2",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "604.99",
+                  "discountedPrice": "604.99",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "25.2",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "604.99",
+                  "originalPrice": "604.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev8000065",
+              "outOfStock": "true",
+              "pdpUrl": "smartphones/apple-iphone-7-plus-certified-pre-owned/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 7 Plus (Certified Pre-Owned - Like New)",
+              "defaultSkuId": "sku2980022",
+              "mobileAppImageName": "iphone7-plus-front-rsgld",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "0",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "0.0",
+              "comingSoon": "false",
+              "imageName": "iphone6s-spgry-front",
+              "deals": null,
+              "startDate": "1442030460000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "39",
+              "imgDomainName": "//ss72.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Space Gray",
+                "Rose Gold"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "0.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": null,
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": null,
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": null,
+                "fullRetailContractInfo": {
+                  "discountedPrice": "250.99",
+                  "originalPrice": "250.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev9440033",
+              "outOfStock": "true",
+              "pdpUrl": "smartphones/apple-iphone-6s-certified-pre-owned-very-good-condition/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 6s (Certified Pre-Owned - Very Good)",
+              "defaultSkuId": "sku2770129",
+              "mobileAppImageName": "apple_iphone6s_spgry_front_mf",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "0",
+              "operatingSystem": "Apple iOS",
+              "averageRating": "0.0",
+              "comingSoon": "false",
+              "imageName": "iphone7-front-matblk",
+              "deals": null,
+              "startDate": "1473404400000",
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "40",
+              "imgDomainName": "//ss73.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Black"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "0.0",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": null,
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": null,
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": null,
+                "fullRetailContractInfo": {
+                  "discountedPrice": "299.99",
+                  "originalPrice": "299.99",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev9440034",
+              "outOfStock": "true",
+              "pdpUrl": "smartphones/apple-iphone-7-certified-pre-owned-good-condition/",
+              "brand": "Apple",
+              "annualUpgradeEligible": "false",
+              "displayName": "iPhone&reg; 7 (Certified Pre-Owned - Good)",
+              "defaultSkuId": "sku2730321",
+              "mobileAppImageName": "iphone7-front-matblk",
+              "podToolTip": null
+            },
+            {
+              "numOfReviews": "0",
+              "operatingSystem": "Android",
+              "averageRating": "0.0",
+              "comingSoon": "false",
+              "imageName": "Samsung_Hero_Gold",
+              "deals": null,
+              "startDate": null,
+              "unitsSold1": null,
+              "unitsSold3": null,
+              "unitsSold7": null,
+              "unitsSold30": null,
+              "defaultRank": "41",
+              "imgDomainName": "//ss7.vzw.com/is/image/VerizonWireless",
+              "colors": [
+                "Gold"
+              ],
+              "compatibleDevices": null,
+              "specialOffers": [
+                "Certified Pre-Owned"
+              ],
+              "skuWith2YearPricing": "false",
+              "deviceCategory": [
+                "Smartphones"
+              ],
+              "productPriceInfo": {
+                "discountedPrice": "15.83",
+                "giftCardPricingText": null,
+                "bicDiscountInfo": null,
+                "discountText": null,
+                "sedOfferToolTipText": null,
+                "edgeContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "15.83",
+                  "discountedPrice": "15.83",
+                  "offerType": null,
+                  "showEdgePrice": "true"
+                },
+                "ecpdDiscount": "false",
+                "edgeFullRetailContractInfo": {
+                  "promoBadgeMessages": null,
+                  "originalPrice": "380.0",
+                  "discountedPrice": "380.0",
+                  "offerType": null
+                },
+                "employeeOfferText": null,
+                "twoYearContractInfo": null,
+                "discountPercentage": "0.0",
+                "rebateInfo": null,
+                "selectedContractInfo": {
+                  "contractTerm": "99",
+                  "originalPrice": "15.83",
+                  "contractText": "For 24 months,  0% APR;<br> Retail Price: ",
+                  "contractName": "Monthly Payment",
+                  "contractDetail": null
+                },
+                "fullRetailContractInfo": {
+                  "discountedPrice": "380.0",
+                  "originalPrice": "380.0",
+                  "showRetailPrice": "true",
+                  "promoBadgeMessages": null
+                },
+                "prePayContractInfo": null
+              },
+              "productId": "dev7920143",
+              "outOfStock": "true",
+              "pdpUrl": "smartphones/samsung-galaxy-s7-certified-pre-owned/",
+              "brand": "Samsung",
+              "annualUpgradeEligible": "false",
+              "displayName": "Galaxy S7 (Certified Pre-Owned - Like New)",
+              "defaultSkuId": "sku2370047",
+              "mobileAppImageName": "Samsung_Galaxy_S7_Gold_front_mf",
+              "podToolTip": null
+            }
+          ],
+          "ecpdDiscountFlag": "false",
+          "colourSwatchClickable": "false",
+          "edgePriceShowFlag": "false"
+        },
+        "tabsHeaderContentInfo": null
+      },
+      "aemJson": "UF_AEM_cache_/smartphones/ Redis key doesn't exists"
+    }
+  },
+  "errorMap": null,
+  "statusMessage": "Service completed successfully",
+  "statusCode": "00"
+}
